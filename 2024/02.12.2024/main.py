@@ -1,3 +1,4 @@
+# https://adventofcode.com/2024/day/2
 import os
 from typing import List
 

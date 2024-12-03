@@ -1,3 +1,4 @@
+# https://adventofcode.com/2024/day/1
 import os
 from collections import Counter
 
